@@ -1,0 +1,8 @@
+D:\C#learning\MyProject\Lessons\Lessons\bin\Debug\Lessons.exe.config
+D:\C#learning\MyProject\Lessons\Lessons\bin\Debug\Lessons.exe
+D:\C#learning\MyProject\Lessons\Lessons\bin\Debug\Lessons.pdb
+D:\C#learning\MyProject\Lessons\Lessons\obj\Debug\Lessons.exe
+D:\C#learning\MyProject\Lessons\Lessons\obj\Debug\Lessons.pdb
+D:\C#learning\MyProject\Lessons\Lessons\obj\Debug\Lessons.csprojResolveAssemblyReference.cache
+D:\C#learning\MyProject\Lessons\Lessons\bin\Debug\PlayerLib.dll
+D:\C#learning\MyProject\Lessons\Lessons\bin\Debug\PlayerLib.pdb

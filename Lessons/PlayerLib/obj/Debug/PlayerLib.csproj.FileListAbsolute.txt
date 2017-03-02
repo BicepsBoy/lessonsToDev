@@ -1,0 +1,5 @@
+D:\C#learning\MyProject\Lessons\PlayerLib\bin\Debug\PlayerLib.dll
+D:\C#learning\MyProject\Lessons\PlayerLib\bin\Debug\PlayerLib.pdb
+D:\C#learning\MyProject\Lessons\PlayerLib\obj\Debug\PlayerLib.csprojResolveAssemblyReference.cache
+D:\C#learning\MyProject\Lessons\PlayerLib\obj\Debug\PlayerLib.dll
+D:\C#learning\MyProject\Lessons\PlayerLib\obj\Debug\PlayerLib.pdb
